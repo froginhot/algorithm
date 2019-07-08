@@ -1,0 +1,2 @@
+# algorithm
+classic algorithms collected
